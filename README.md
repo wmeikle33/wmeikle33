@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wmeikle33
-- 👀 I’m interested in Python Programming and Data Science
-- 🌱 I’m currently learning anything and everything associated with datascience
+- 👀 I’m extemely passionate about Python Programming and everything associated with Data Science
 - 📫 How to reach me please feel free to contact me on LinkedIn, or via email
 
 <!---
