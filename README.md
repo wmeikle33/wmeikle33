@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wmeikle33
-- 👀 I’m extemely passionate about Python Programming and everything associated with Data Science
+- 👀 I've been working in the field of Data Science for around three, years, completing a variety of projects related to machine learning, legacy system automization and more.
 - 📫 How to reach me please feel free to contact me on LinkedIn, or via email
 
 <!---
